@@ -1,15 +1,4 @@
-# Make a class named libary. It should have 4 functions
-# display book
-# lend book - (who owns the book if not present)
-# add book
-# return book
-# Add book and make a list display books if asked and check the avibility of the book asked
-# if anyone wants to add a book so take his/her name and name of book and if anyone lends a
-# book so ask name of person, name of book and save the time at which book was witdrawed and
-# make a .txt file to save that details. I anyone returns the book take name of person, book
-# and save time for the same next time !!
-
-# Program:
+#Authors: Python Aryan
 import time
 class Libary():
 
